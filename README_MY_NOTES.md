@@ -66,7 +66,7 @@ My thanks to the authors, who offer this treasure of information for free.
 - Practical learning through coding and experimentation is crucial, facilitated by the Jupyter Notebook platform.
 - Jupyter is the preferred tool for data science in Python due to its power, flexibility, and ease of use.
 
-  ### Terminology
+### Terminology
 
 The following is a quote:
 
