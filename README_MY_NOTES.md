@@ -65,3 +65,16 @@ My thanks to the authors, who offer this treasure of information for free.
 - By the book's end, readers will understand the inner workings of fastai and much of PyTorch.
 - Practical learning through coding and experimentation is crucial, facilitated by the Jupyter Notebook platform.
 - Jupyter is the preferred tool for data science in Python due to its power, flexibility, and ease of use.
+
+  ### Terminology
+
+The following is a quote:
+
+Terminology for all the pieces we have discussed:
+
+* The functional form of the model is called its architecture (but be careful—sometimes people use model as a synonym of architecture, so this can get confusing).
+* The weights are called parameters.
+* The predictions are calculated from the independent variable, which is the data not including the labels.
+* The results of the model are called predictions.
+* The measure of performance is called the loss.
+* The loss depends not only on the predictions, but also the correct labels (also known as targets or the dependent variable); e.g., "dog" or "cat."
