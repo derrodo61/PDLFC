@@ -78,3 +78,18 @@ Terminology for all the pieces we have discussed:
 * The results of the model are called predictions.
 * The measure of performance is called the loss.
 * The loss depends not only on the predictions, but also the correct labels (also known as targets or the dependent variable); e.g., "dog" or "cat."
+
+### What Is a Neural Network?
+
+- A neural network is a highly flexible machine learning model.
+- It can solve a wide range of problems by adjusting its weights.
+- The universal approximation theorem proves this flexibility.
+- Stochastic gradient descent (SGD) is used to train neural networks by automatically updating weights.
+- Neural networks and SGD mainly involve addition and multiplication operations.
+- Neural networks can handle tasks like image classification:
+  - Inputs: Images
+  - Weights: Adjusted within the network
+  - Outputs: Identified objects (e.g., "dog" or "cat")
+- Model performance is measured by its accuracy in making correct predictions.
+- SGD optimizes weight assignments to enhance accuracy.
+- This approach aligns with Samuel's vision of machine learning models improving through experience without needing manual intervention.
