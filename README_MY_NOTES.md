@@ -79,6 +79,28 @@ Terminology for all the pieces we have discussed:
 * The measure of performance is called the loss.
 * The loss depends not only on the predictions, but also the correct labels (also known as targets or the dependent variable); e.g., "dog" or "cat."
 
+### What is Machine Learning?
+
+- **Deep Learning Models**: Use neural networks, originating from the 1950s, recently becoming powerful due to advancements.
+- **Deep Learning and Machine Learning**: Deep learning is a modern area within the broader discipline of machine learning.
+- **Machine Learning vs. Regular Programming**:
+  - Regular programming: Involves writing exact steps for the computer to follow.
+  - Machine learning: Involves training a model to solve problems by showing it examples, allowing it to learn from data.
+- **Arthur Samuel's Contribution**:
+  - Introduced the concept of machine learning in 1949.
+  - In his 1962 essay, he highlighted the difficulty of manually programming every step for computers.
+  - Proposed showing computers examples to solve problems instead of manual programming.
+  - Demonstrated effectiveness with his checkers-playing program, which learned and improved autonomously.
+- **Key Concepts of Machine Learning**:
+  - **Weight Assignment**: Variables that define how a model operates.
+  - **Performance Testing**: An automatic means of testing the effectiveness of weight assignments.
+  - **Mechanism for Improvement**: An automatic process for adjusting weights to enhance performance.
+- **Model Training**:
+  - Involves adjusting weights based on performance.
+  - Automated mechanisms update weights to improve the model.
+  - Once trained, the model uses fixed weights and operates like a regular program.
+- **Learning Process**: Training involves iterative adjustments and testing until the model achieves optimal performance.
+- **Machine Learning Definition**: Training of programs through experience and data rather than manual coding of each step.
 ### What Is a Neural Network?
 
 - A neural network is a highly flexible machine learning model.
